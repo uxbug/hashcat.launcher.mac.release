@@ -1,1 +1,3 @@
 # hashcat.launcher.mac.release
+
+`4fab27fec65534c830890b89a9ccdd7454fc4bf6f7f857cf94d71f5ae1c4f0f0`
