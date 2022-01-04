@@ -1,0 +1,1 @@
+# hashcat.launcher.mac.release
